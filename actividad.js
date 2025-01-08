@@ -60,6 +60,10 @@ venderProducto("Peras", 30);
 venderProducto("Plátanos", 20);
 venderProducto("Manzanas", 100);
 
+console.log(inventario.producto1)
+console.log(inventario.producto2)
+console.log(inventario.producto3)
+console.log(inventario.producto4)
 
 asegurarPrecios();
 
